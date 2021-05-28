@@ -22,3 +22,6 @@
 [@Арсений Шахматов](https://github.com/cene555) |
 [@Степан Шабалин](https://github.com/neverix) |
 [@Максим Герасимов](https://github.com/Lednik7)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Lednik7/RuCode3/blob/main/LICENSE) file for details
